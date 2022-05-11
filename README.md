@@ -1,1 +1,0 @@
-# Front-end-Mentor-Profile-card-component
